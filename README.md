@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**664235822/664235822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 这里是SmallPig的个人GitHub首页
 
-Here are some ideas to get you started:
+* 喜欢音乐、唱歌、吉他、编程、游戏、结交志同道合的朋友，对人真心、热情，一直在努力，有梦想，尽管遭受了很多失望、挫折和不公平，仍然保持着一颗赤子之心😀。
+* 会C#、Java、前端、游戏开发，虽然身边人都叫我大佬👏👏👏，但自己觉得自己还很菜😕😕😕，希望做一名游戏设计师，过着经济自由的生活，现在还在读书中，希望继续深造，学好本领，做自己想做的事
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 项目库
+
+* Unity制作的小游戏
+* 自己电脑的黑苹果配置文件
+* 学习一些感兴趣的东西
+* 学校实训的项目
+* 博客，放一些常用的知识
+* 参加比赛fork的源代码
+
+## Thanks for visiting 🍹🍹🍹
