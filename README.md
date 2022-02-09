@@ -4,7 +4,7 @@
 </h2>
 
 <h4 align='center'>
-  a Game Designer
+  A Student | Game Designer
 </h4>
 
 <h3> 🧑 &nbsp;个人介绍:</h3>
