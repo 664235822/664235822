@@ -1,6 +1,6 @@
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
-   <!-- I'm <a href="">SmallPig</a>!  -->
+  I'm <a href="">SmallPig</a>
 </h2>
 
 <h3> 🧑 这里是SmallPig的个人GitHub首页:</h3>
