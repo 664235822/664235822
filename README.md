@@ -3,6 +3,10 @@
   I'm <a href="">SmallPig</a>
 </h2>
 
+<h4 align='center'>
+  a Game Designer
+</h4>
+
 <h3> 🧑 这里是SmallPig的个人GitHub首页:</h3>
 
 <summary> 喜欢音乐、唱歌、吉他、编程、游戏、结交志同道合的朋友，对人真心、热情，一直在努力，有梦想，尽管遭受了很多失望、挫折和不公平，仍然保持着一颗赤子之心😀。</summary>
