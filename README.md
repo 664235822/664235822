@@ -1,19 +1,22 @@
-<h2> Hi there 👋</h2>
+<h2 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
+   <!-- I'm <a href="">SmallPig</a>!  -->
+</h2>
 
-<h2> 这里是SmallPig的个人GitHub首页</h2>
+<h2> 🧑 这里是SmallPig的个人GitHub首页:</h2>
 
-* 喜欢音乐、唱歌、吉他、编程、游戏、结交志同道合的朋友，对人真心、热情，一直在努力，有梦想，尽管遭受了很多失望、挫折和不公平，仍然保持着一颗赤子之心😀。
-* 会C#、Java、前端、游戏开发，虽然身边人都叫我大佬👏👏👏，但自己觉得自己还很菜😕😕😕，希望做一名游戏设计师，过着经济自由的生活，现在还在读书中，希望继续深造，学好本领，做自己想做的事
+<summary> 喜欢音乐、唱歌、吉他、编程、游戏、结交志同道合的朋友，对人真心、热情，一直在努力，有梦想，尽管遭受了很多失望、挫折和不公平，仍然保持着一颗赤子之心😀。</summary>
+<summary> 会C#、Java、前端、游戏开发，虽然身边人都叫我大佬👏👏👏，但自己觉得自己还很菜😕😕😕，希望做一名游戏设计师，过着经济自由的生活，现在还在读书中，希望继续深造，学好本领，做自己想做的事</summary>
 
-<h2> 项目库</h2>
+<h2>🥇 项目库:</h2>
 
-* 自己做或者根据教程做的Unity和虚幻4小游戏
-* 学习一些感兴趣的东西，如OpenGL，OpenCV，Blender
-* 博客，放一些常用的知识
-* 学校课程的课后实验课练习
-* 参加比赛的项目留档
-* 实训的项目留档
-* 自己以前电脑的黑苹果配置文件留档
+<summary> 自己做或者根据教程做的Unity和虚幻4小游戏</summary>
+<summary> 学习一些感兴趣的东西，如OpenGL，OpenCV，Blender</summary>
+<summary> 博客，放一些常用的知识</summary>
+<summary> 学校课程的课后实验课练习</summary>
+<summary> 参加比赛的项目留档</summary>
+<summary> 实训的项目留档</summary>
+<summary> 自己以前电脑的黑苹果配置文件留档</summary>
 
 <h2>ℹ️ &nbsp;Github 信息</h2>
 	
