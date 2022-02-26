@@ -15,11 +15,11 @@
 <h3>🥇 &nbsp;项目库:</h3>
 
 <summary> 自己做或者根据教程做的Unity和虚幻4小游戏</summary>
-<summary> 学习一些感兴趣的东西，如OpenGL，OpenCV，Blender</summary>
+<summary> 学习一些感兴趣的东西，如OpenGL，OpenCV，PyTorch，Blender</summary>
 <summary> 博客，放一些常用的知识</summary>
-<summary> 学校课程的课后实验课练习</summary>
+<summary> 学校课程的文档及课后作业留档</summary>
 <summary> 参加比赛的项目留档</summary>
-<summary> 实训的项目留档</summary>
+<summary> 实训和期末的项目留档</summary>
 <summary> 自己以前电脑的黑苹果配置文件留档</summary>
 
 <h3>ℹ️ &nbsp;Github 信息</h3>
